@@ -17,6 +17,28 @@
 - ⚡ ABILITY *Confident enough to tackle any situation*
 
 <h3 align="left">Connect with me:</h3>
+<p><strong>Web Developer</strong></p>
+    <p>📞 0321-1149585 | ✉ <a href="mailto:noorfatimaijaz12@gmail.com">noorfatimaijaz12@gmail.com</a></p>
+    <p>🌐 GitHub: <a href="https://github.com/noorijazdev" target="_blank">noorijazdev</a> | LinkedIn: <a href="https://www.linkedin.com/in/noor-fatima" target="_blank">Noor Fatima</a></p>
+    <p>📍 Lahore, Punjab, Pakistan</p>
+    <h2>Professional Summary</h2>
+    <p>Full Stack Web Developer with expertise in frontend and backend development. Skilled in HTML, CSS, JavaScript, React.js, Node.js, Bootstrap, and capable of building complete applications from scratch. Experienced in using GitHub, MongoDB, Vercel, Netlify, LinkedIn, and other modern web technologies. Passionate about building efficient and scalable web solutions.</p>
+    <h2>Skills</h2>
+        <h3>Technical Skills</h3>
+        <ul>
+          <li>HTML, CSS, JavaScript, React.js, Node.js, Bootstrap</li>
+          <li>Frontend & Backend Development (Full Stack)</li>
+          <li>GitHub, LinkedIn, MongoDB, Vercel, Netlify</li>
+          <li>Complete application development from scratch</li>
+          <li>Familiar with multiple modern web technologies</li>
+        </ul>
+        <h3>Soft Skills</h3>
+        <ul>
+          <li>Excellent communication</li>
+          <li>Error debugging & problem-solving</li>
+          <li>Ability to handle any situation professionally</li>
+          <li>Teamwork & collaboration</li>
+        </ul>
 <p align="left">
 <a href="https://linkedin.com/in/noor fatima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor fatima" height="30" width="40" /></a>
 </p>
